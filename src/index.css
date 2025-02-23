@@ -149,7 +149,7 @@ hr.RampBreak--l {
   border-color: var(--color-constructive);
   background-color: var(--color-constructive);
 }
-
+/* bug 2 catch */
 .RampInputCheckbox--label-unchecked:before {
   content: " ";
   width: 100%;
